@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Sacramento&display=swap');
+
+body {
+    background-color: honeydew
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color:lightpink;
+    font-family: 'Sacramento', cursive; 
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid aqua; 
+    width: 55%; 
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#pink {
+    border-color: pink;
+}
+
+#yellow {
+    border-color: palegoldenrod;
+}
+
+#green {
+    border-color: lightgreen;
+}
+
+.footer {
+    font-family: 'Gideon Roman', cursive;
+    color: hotpink;
+    font-size: 2rem;
+    text-align: center;
+}
